@@ -43,7 +43,8 @@ const dict = {
         "Agile Cyborg Security (ACS)",
         "Fist of Five",
         "Time to Market",
-        "daily standup"
+        "daily standup",
+        "SoDa"
     ],
     "verb": [
         "review",
